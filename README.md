@@ -148,5 +148,3 @@ The interactive dashboard is built with [Streamlit](https://streamlit.io/) and i
 2. **Part 2** – Searchable/filterable frequency table with distribution chart
 3. **Part 3** – Interactive boxplots and statistical test results
 4. **Part 4** – Baseline subset explorer with summary charts
-
-**Dashboard link:** *(add Streamlit Community Cloud URL after deployment)*
